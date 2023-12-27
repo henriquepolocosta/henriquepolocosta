@@ -1,9 +1,18 @@
-### Ola eu sou Henrique Polo 👋
+### Hello I'm Henrique Costa 👋
+ Graduated in Systems Analysis
 
-- 🔭 Atualmente estou trabalhando como DevOps
-- 🌱 Atualmente estou estudando Docker,Terraform e Ingles
-- 👯 I’m looking to collaborate on ...
-- 💬 Para entrar em contato comigo e-mail: classeatreinamentos@yahoo.com.br
+
+- 🔭 Dual Citizenship: Italian | Brazilian 🇮🇹🇧🇷
+
+Cloud Engineer
+
+I am currently focused on working with companies that aim to manage their projects in cloud computing, using aws technologies like EC2, versioning, S3, buckets, IAM, Route53, CloudFormation, Serverless (Lambda), VPC
+
+- 🌱 I'm currently studying Docker,Terraform,Azure,AWS,Pipeline CI/CD
+- 
+- 👯 I am currently looking for a remote job opportunity in this area
+- 
+- 💬 To contact me e-mail: classeatreinamentos@yahoo.com.br
 
 
 <div >
