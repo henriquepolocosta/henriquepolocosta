@@ -32,6 +32,8 @@ I am currently focused on working with companies that aim to manage their projec
   <img lign="center" alt="Henrique-Csharp" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img lign="center" alt="Henrique-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
   <img lign="center" alt="Henrique-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img lign="center" alt="Henrique-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+          
           
   
           
